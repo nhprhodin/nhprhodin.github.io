@@ -13,12 +13,6 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-li:last-child > form{
-  margin-right: 0px;
-}
-li:last-child{
-  float:right;
-}
 a {
     text-decoration: none;
     color: #999;
