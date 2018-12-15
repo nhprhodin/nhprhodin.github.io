@@ -57,12 +57,12 @@ form {
 }
 
 ul {
-    margin: 60px auto;
+    margin: 0px auto;
     width: 70%;
 }
 
 ul li {
-    padding:0;
+    padding:100;
     width: 100%;
   margin: 10px 0;
 }
