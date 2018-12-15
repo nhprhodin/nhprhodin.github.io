@@ -57,7 +57,8 @@ form {
 }
 
 ul {
-  padding-left: 10px;
+    margin: 60px auto;
+    width: 70%;
 }
 
 li{
