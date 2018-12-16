@@ -67,5 +67,5 @@ figure img {
 figure figcaption {
     text-align: center;
     display: table-caption;
-    caption-side: top;
+    caption-side: bottom;
 }
