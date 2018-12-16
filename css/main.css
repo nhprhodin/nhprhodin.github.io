@@ -64,7 +64,7 @@ figure {
   font-size: smaller;
   text-indent: 0;
   margin: 0.0em 0.5em 0.5em 0.0em;
-  padding: 0.5em 0.5em 0.5em 0.5em;
+  padding: 0.0em 0.5em 0.5em 0.0em;
   display: table;
     }
 
@@ -80,4 +80,6 @@ figure figcaption {
     text-align: center;
     display: table-caption;
     caption-side: bottom;
+    margin: 0.0em 0.5em 0.5em 0.0em;
+    padding: 0.0em 0.5em 0.5em 0.0em;
 }
