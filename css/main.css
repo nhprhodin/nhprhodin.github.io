@@ -57,7 +57,7 @@ form {
 }
 
 figure {
-    display: inline-block;
+    display: table;
     border: 1px dotted gray;
     margin: 20px; /* adjust as needed */
 }
@@ -69,5 +69,6 @@ figure img {
 figure figcaption {
     border: 1px dotted blue;
     text-align: center;
+    display: table-caption;
     caption-side: top;
 }
