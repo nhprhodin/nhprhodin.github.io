@@ -56,6 +56,12 @@ form {
   display: inline-block;
 }
 
+figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+}
+
 figure img {
     vertical-align: top;
 }
