@@ -57,7 +57,7 @@ form {
 }
 
 figure {
-  float: right;
+  float: left;
   width: 30%;
   text-align: center;
   font-style: italic;
